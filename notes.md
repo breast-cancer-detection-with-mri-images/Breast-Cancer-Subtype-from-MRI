@@ -1,7 +1,6 @@
 # Observations about segmentation
 
-- Start/End Slice: limit - x
-
-
-1: row: 300 - 350 
-   col: 175 - 230
+- dicom2nifti converts into a different orientation: RAS oriented
+- annotation boxes have to be fixed for that:
+  - slice => total - slice
+  - rows => columns, columns => rows
