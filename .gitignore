@@ -1,13 +1,6 @@
 ./Dataset
 2304.08972v1.pdf
 breast cancer pred
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/__init__.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/decision_tree.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/k_nearest.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/knn.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/logistic_regression.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/random_forest.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/support_vector_cls.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/svm.cpython-37.pyc
-4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/xgboost.cpython-37.pyc
-4.2. DL Models/Basic 3D CNN/__pycache__/utils.cpython-311.pyc
+4.1. ML Modelling/ML Models Feature Scaling/models/__pycache__/*
+4.2. DL Models/Basic 3D CNN/__pycache__/*
+4.2. DL Models/Basic 3D CNN/wandb/*
